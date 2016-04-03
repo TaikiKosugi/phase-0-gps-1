@@ -16,3 +16,4 @@ This page contains following things;
 ![Screenshot](ss.png)
 
 change made for master
+change made for small-conflict
